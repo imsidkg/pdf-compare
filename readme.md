@@ -24,3 +24,19 @@ Multi-page support | ✅
 ---
 
 
+---
+
+## 🚀 Installation & Run
+
+### 1️⃣ Clone Repo
+
+```bash
+git clone https://github.com/imsidkg/pdf-compare
+cd pdf-compare
+cd backend
+npm install
+npm run dev
+cd ../frontend
+npm install
+npm run dev
+
