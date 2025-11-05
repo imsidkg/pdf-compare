@@ -23,5 +23,4 @@ Multi-page support | ✅
 
 ---
 
-## 📁 Project Structure
 
